@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@cityofzion/neon-js": "^3.8.1",
+    "commander": "^2.15.1",
+    "inquirer": "^6.0.0",
     "xlsx": "^0.13.0"
   }
 }
